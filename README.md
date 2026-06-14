@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blast Radius
 
 A Graph RAG system for multi-hop dependency reasoning over a microservice topology. It answers questions about service dependencies, failure cascades, and "blast radius" by routing each question to either graph traversal, semantic vector search, or both, then synthesizing a grounded answer.
@@ -66,3 +67,7 @@ Scoring is done against the **retrieved services** (the structured context), not
 | Mean recall | 0.93 |
 | Mean F1 | 0.90 |
 
+=======
+# Graph-Rag-Blast-Radius
+a Graph RAG system for multi-hop dependency reasoning over microservice topologies
+>>>>>>> 2ce8df428b1d02597e248914e5bc4a76fd90983e
